@@ -31,11 +31,11 @@
 
 <h3>Little Learned:</h3>
   <div>
-    <img src="https://github.com/user-attachments/assets/9fc22209-3021-434c-971e-b6549b99b013" height="40"/>
+    <img src="https://github.com/user-attachments/assets/bce57bf6-e579-4739-b486-3fbed40b48e4" height="40"/>
   </div>
 
 <h3>Development Environment:</h3>
 <div>
-  <img src ="https://github.com/user-attachments/assets/454b0f1f-03b3-41ff-94cb-907eceac2dc8" height="40"/>
-  <img src ="https://github.com/user-attachments/assets/e1066ee1-c6a9-4265-b240-5c67d83ddff7" height="40"/>
+  <img src ="https://github.com/user-attachments/assets/77c1c1bc-5462-4b82-9adf-60f62b3e6408" height="40"/>
+  <img src ="https://github.com/user-attachments/assets/000705f5-e432-45c3-a7ad-69ce1b0b657f" height="40"/>
 </div>
